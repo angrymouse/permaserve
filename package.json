@@ -1,0 +1,10 @@
+{
+  "name": "permaserve",
+  "version": "0.0.1",
+  "description": "Permaserve is tool that allows hosting of handshake sites on arweave.",
+  "main": "index.js",
+  "repository": "https://github.com/angrymouse/permaserve",
+  "author": "Angrymouse <nik@hns.is>",
+  "license": "MIT",
+  "private": false
+}
