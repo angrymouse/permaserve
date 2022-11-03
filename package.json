@@ -6,5 +6,10 @@
   "repository": "https://github.com/angrymouse/permaserve",
   "author": "Angrymouse <nik@hns.is>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "arweave": "^1.11.6",
+    "bns-plus": "^0.15.2",
+    "fastify": "^4.9.2"
+  }
 }
